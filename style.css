@@ -113,11 +113,11 @@ body {
   transition: transform 0.3s ease-in opacity 0.3s ease-in;
 }
 
-.music-info h4{ 
+.music-info h4 {
   margin: 0;
 }
 
-.music-container.play .music-info{
+.music-container.play .music-info {
   opacity: 1;
   transform: translateY(-100%);
 }
@@ -134,7 +134,7 @@ body {
 .progress {
   background-color: #fe8daa;
   border-radius: 5px;
-  height : 100%;
+  height: 100%;
   width: 0%;
   transition: width 0.1s linear;
 }
